@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "outDir": "dist",
+    "esModuleInterop": true,
+  },
+  "include": [ "client", "server", "shared" ]
+}
